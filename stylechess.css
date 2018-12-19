@@ -1,0 +1,16 @@
+
+        .blue{
+        background:#00F;
+        border:yellow 1px dashed;
+        
+        }
+        .white{
+        background:#FFF;
+        border:2px solid red;
+        }
+        td{
+        width:calc(100vmin / 8);
+        height:calc(100vmin / 8);
+        
+        
+       
